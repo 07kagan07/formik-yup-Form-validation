@@ -19,7 +19,7 @@ Proje aşağıdaki kütüphaneleri kullanmaktadır:
 
 Formik - Form yönetimi için kullanılan bir kütüphane.
 Yup - Şema tabanlı form doğrulama için kullanılan bir kütüphane.
-Styled Components - React bileşenlerine CSS özelliklerini uygulamak için kullanılan bir kütüphane.
+Styled Components - React componentlerine CSS özelliklerini uygulamak için kullanılan bir kütüphane.
 
 ## Demo
 
