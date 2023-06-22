@@ -23,4 +23,4 @@ Styled Components - React bileşenlerine CSS özelliklerini uygulamak için kull
 ---
 ## Demo
 
-[Demo Linki](https://www.example.com](https://formik-yup-form-validation.vercel.app/)
+[Demo Linki:https://formik-yup-form-validation.vercel.app/](https://formik-yup-form-validation.vercel.app/)
