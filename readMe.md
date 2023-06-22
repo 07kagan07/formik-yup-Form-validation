@@ -12,7 +12,7 @@ cd proje-adi
 npm install
 npm run dev
 ```
-Bu komutlarla projeyi klonlayabilir, gerekli bağımlılıkları yükleyebilir ve projeyi geliştirme modunda çalıştırabilirsiniz. Tarayıcınızda http://localhost:3000 adresine giderek projeyi görüntüleyebilirsiniz.
+Bu komutlarla projeyi klonlayabilir, gerekli bağımlılıkları yükleyebilir ve projeyi geliştirme modunda çalıştırabilirsiniz. Tarayıcınızda http://localhost:5173 adresine giderek projeyi görüntüleyebilirsiniz.
 
 Kullanılan Kütüphaneler
 Proje aşağıdaki kütüphaneleri kullanmaktadır:
