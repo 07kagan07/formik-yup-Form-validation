@@ -4,11 +4,11 @@ Bu projede Formik, Yup ve Styled Components kütüphaneleri kullanılmıştır.
 
 ## Projeyi Başlatma
 
-Proje klonlandıktan sonra aşağıdaki adımları takip ederek projeyi başlatabilirsiniz:
+Aşağıdaki adımları takip ederek projeyi başlatabilirsiniz:
 
 ```bash
-git clone https://github.com/kullanici/proje-adı.git
-cd proje-adı
+git clone https://github.com/07kagan07/formik-yup-Form-validation.git
+cd proje-adi
 npm install
 npm run dev
 ```
